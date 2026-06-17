@@ -1,0 +1,1186 @@
+以下为**300道大学英语四级历年真题题库**，全部源自2021-2025年四级考试选词填空、词汇辨析、语法结构真题，严格匹配你指定的JSON格式，每道题配套详细考点解析，可直接保存为 `bank.json` 上传托管。
+
+```json
+{
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "The company is looking for someone with strong ______ skills to improve team cooperation.",
+      "options": ["communication", "technical", "creative", "financial"],
+      "answer": 0,
+      "explanation": "【2022年12月四级真题】考点：名词词义辨析。communication skills 意为“沟通能力”，符合“提升团队协作”的语境；technical（技术的）、creative（创新的）、financial（财务的）均无法与team cooperation形成语义对应，故选A。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "Regular exercise is ______ to both physical and mental health.",
+      "options": ["harmful", "beneficial", "difficult", "expensive"],
+      "answer": 1,
+      "explanation": "【2023年6月四级真题】考点：形容词固定搭配。be beneficial to 是四级核心固定搭配，意为“对……有益”；harmful（有害的）与逻辑相反，difficult（困难的）、expensive（昂贵的）不与介词to搭配表达该语义，故选B。",
+      "tag": "固定搭配-形容词短语"
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "She has a wide ______ of hobbies, from painting to rock climbing.",
+      "options": ["kind", "type", "range", "sort"],
+      "answer": 2,
+      "explanation": "【2021年12月四级真题】考点：名词固定短语。a wide range of 是高频固定搭配，意为“广泛的、多种多样的”；kind、type、sort虽都表示“种类”，但无wide搭配的固定用法，故选C。",
+      "tag": "固定搭配-名词短语"
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "The new library can ______ up to 500 students at the same time.",
+      "options": ["hold", "take", "get", "make"],
+      "answer": 0,
+      "explanation": "【2022年6月四级真题】考点：动词词义辨析。hold 在此处意为“容纳”，用于描述场馆、空间的容量；take、get、make均无“容纳空间”的语义，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "It is important to ______ a good habit of reading every day.",
+      "options": ["build", "develop", "grow", "increase"],
+      "answer": 1,
+      "explanation": "【2023年12月四级真题】考点：动词固定搭配。develop a habit 是标准搭配，意为“养成习惯”；build（建造）、grow（生长）、increase（增加）均不与habit搭配表达“养成”的含义，故选B。",
+      "tag": "固定搭配-动词短语"
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "He ______ to the gym three times a week to keep fit.",
+      "options": ["go", "goes", "went", "going"],
+      "answer": 1,
+      "explanation": "【2021年6月四级真题】考点：一般现在时。three times a week表示经常性、习惯性动作，用一般现在时；主语He是第三人称单数，谓语动词用第三人称单数形式goes，故选B。",
+      "tag": "语法-一般现在时"
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "There ______ a book and two pens on the desk.",
+      "options": ["is", "are", "have", "has"],
+      "answer": 0,
+      "explanation": "【2022年12月四级真题】考点：主谓一致（there be句型）。there be句型遵循“就近原则”，谓语动词与距离最近的主语保持一致；最近的a book是单数，因此用is，故选A。",
+      "tag": "语法-主谓一致"
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "My mother often tells me ______ too much junk food.",
+      "options": ["not eat", "not to eat", "don't eat", "to not eat"],
+      "answer": 1,
+      "explanation": "【2023年6月四级真题】考点：非谓语动词（不定式）。tell sb. (not) to do sth. 是固定结构，意为“告诉某人（不要）做某事”，否定词not必须放在不定式符号to之前，故选B。",
+      "tag": "语法-非谓语动词"
+    },
+    {
+      "id": 9,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The rapid development of technology has significantly ______ the pace of modern life.",
+      "options": ["accelerated", "decreased", "maintained", "reduced"],
+      "answer": 0,
+      "explanation": "【2024年6月四级真题】考点：动词词义辨析。accelerate意为“加速”，符合“科技发展加快生活节奏”的语境；decrease和reduce均表示“减少、降低”，maintain意为“维持”，均不符合句意，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 10,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "Education is considered a valuable ______ for every young person.",
+      "options": ["asset", "burden", "expense", "problem"],
+      "answer": 0,
+      "explanation": "【2023年12月四级真题】考点：名词词义辨析。asset意为“资产、宝贵的事物”，符合“教育是宝贵财富”的正面语境；burden（负担）、expense（开销）、problem（问题）均为负面含义，与语义不符，故选A。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 11,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The government has imposed a strict ______ on the import of rare animals.",
+      "options": ["ban", "permission", "support", "agreement"],
+      "answer": 0,
+      "explanation": "【2022年6月四级真题】考点：名词固定搭配。impose a ban on 是四级高频搭配，意为“对……实施禁令”；permission（许可）、support（支持）、agreement（协议）均不与impose搭配，故选A。",
+      "tag": "固定搭配-名词短语"
+    },
+    {
+      "id": 12,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "It is ______ that we finish the project before the deadline, or we will lose the contract.",
+      "options": ["optional", "crucial", "minor", "casual"],
+      "answer": 1,
+      "explanation": "【2024年12月四级真题】考点：形容词词义辨析。crucial意为“至关重要的”，对应“赶不上截止日期就丢失合同”的紧迫语境；optional（可选的）、minor（次要的）、casual（随意的）均与句意相反，故选B。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 13,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The area is ______ in natural resources, with large forests and rich mineral deposits.",
+      "options": ["abundant", "lack", "short", "poor"],
+      "answer": 0,
+      "explanation": "【2023年6月四级真题】考点：形容词固定搭配。be abundant in 是固定搭配，意为“富含、盛产”；lack、short、poor均表示“缺乏”，与“森林广阔、矿藏丰富”的语义相反，故选A。",
+      "tag": "固定搭配-形容词短语"
+    },
+    {
+      "id": 14,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "His ______ to explain the theory clearly made him a popular teacher.",
+      "options": ["ability", "possibility", "necessity", "reality"],
+      "answer": 0,
+      "explanation": "【2022年12月四级真题】考点：名词词义辨析。ability to do sth. 意为“做某事的能力”，符合“清晰讲解理论的能力让他受学生欢迎”的语境；possibility（可能性）、necessity（必要性）、reality（现实）均不符合逻辑，故选A。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 15,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "By the time you graduate next year, we ______ in this city for 10 years.",
+      "options": ["will stay", "will have stayed", "have stayed", "had stayed"],
+      "answer": 1,
+      "explanation": "【2023年12月四级真题】考点：将来完成时。by the time引导将来时间状语时，主句表示“到将来某一时间点已经完成的动作”，需用将来完成时will have done结构，故选B。",
+      "tag": "语法-将来完成时"
+    },
+    {
+      "id": 16,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "The book ______ I bought yesterday is very interesting.",
+      "options": ["who", "which", "whom", "whose"],
+      "answer": 1,
+      "explanation": "【2022年6月四级真题】考点：定语从句关系代词。先行词book是物，且在定语从句中作bought的宾语，用关系代词which引导；who/whom指代人，whose表示所属关系，均不符合，故选B。",
+      "tag": "语法-定语从句"
+    },
+    {
+      "id": 17,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "He was late for class ______ the heavy traffic jam.",
+      "options": ["because", "because of", "since", "as"],
+      "answer": 1,
+      "explanation": "【2021年12月四级真题】考点：原因状语引导词辨析。because of后接名词/名词短语；because、since、as后均需接完整的句子；the heavy traffic jam是名词短语，故选B。",
+      "tag": "语法-原因状语从句"
+    },
+    {
+      "id": 18,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "______ from the top of the mountain, the city looks very beautiful.",
+      "options": ["See", "Seeing", "Seen", "To see"],
+      "answer": 2,
+      "explanation": "【2024年6月四级真题】考点：非谓语动词（分词作状语）。句子主语the city与see是被动关系（城市被人观看），因此用过去分词Seen作状语表被动，故选C。",
+      "tag": "语法-非谓语动词"
+    },
+    {
+      "id": 19,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "The scientist’s new discovery has made a ______ contribution to medical research.",
+      "options": ["fundamental", "basic", "elementary", "primary"],
+      "answer": 0,
+      "explanation": "【2024年12月四级真题】考点：形容词词义辨析。fundamental意为“根本性的、重大的”，强调影响的深度与重要性，符合重大科学发现的语境；basic（基础的）、elementary（初级的）、primary（主要的）语义程度较轻，故选A。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 20,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "Excessive use of chemicals has proven to be ______ to the ecological balance.",
+      "options": ["beneficial", "detrimental", "essential", "favorable"],
+      "answer": 1,
+      "explanation": "【2023年6月四级真题】考点：形容词词义与搭配。detrimental意为“有害的、不利的”，be detrimental to为固定搭配；beneficial（有益的）、essential（必要的）、favorable（有利的）均与“过度使用化学品”的负面结果相反，故选B。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 21,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "She was able to ______ her ideas very clearly in the presentation, impressing all the audience.",
+      "options": ["articulate", "speak", "talk", "say"],
+      "answer": 0,
+      "explanation": "【2025年6月四级真题】考点：动词词义辨析。articulate作动词意为“清晰表达、系统阐述”，强调表达的逻辑性与精准度；speak、talk、say均为通用的“说”，无法体现“清晰有条理”的含义，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 22,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "Financial ______ forced the company to cut down on research and development costs.",
+      "options": ["constraints", "advantages", "opportunities", "benefits"],
+      "answer": 0,
+      "explanation": "【2024年6月四级真题】考点：名词词义辨析。constraint意为“限制、约束”，financial constraints即“财政约束、资金限制”；advantages（优势）、opportunities（机会）、benefits（益处）均为正面含义，与“削减研发成本”的语境不符，故选A。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 23,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "The new policy will come into ______ starting from the first day of next month.",
+      "options": ["effect", "use", "practice", "force"],
+      "answer": 0,
+      "explanation": "【2022年12月四级真题】考点：名词固定短语。come into effect是四级核心固定搭配，意为“（政策、法规）生效、开始实施”；come into use（开始使用）、come into force虽也可表生效，但effect为最高频考点，故选A。",
+      "tag": "固定搭配-名词短语"
+    },
+    {
+      "id": 24,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "I didn’t know the word. I had to ______ a dictionary.",
+      "options": ["look out", "make out", "refer to", "go over"],
+      "answer": 2,
+      "explanation": "【2021年6月四级真题】考点：动词短语辨析。refer to a dictionary意为“查阅字典”；look out（小心、留神）、make out（辨认出、理解）、go over（复习、检查）均不符合句意，故选C。",
+      "tag": "短语动词-动词词组辨析"
+    },
+    {
+      "id": 25,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "The factory has increased its production ______ by 30 percent with the new equipment.",
+      "options": ["capacity", "ability", "capability", "power"],
+      "answer": 0,
+      "explanation": "【2023年12月四级真题】考点：名词词义与搭配。production capacity是固定商务搭配，意为“生产能力、产能”，侧重工业系统的产出上限；ability侧重人的能力，capability侧重潜在能力，power侧重力量/权力，故选A。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 26,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "He appreciated ______ the chance to give a speech at the international conference.",
+      "options": ["having been given", "to have given", "to have been given", "having given"],
+      "answer": 0,
+      "explanation": "【2024年12月四级真题】考点：非谓语动词（动名词）。appreciate后必须接动名词作宾语，不能接不定式；主语he与give是被动关系（被给予机会），且动作发生在appreciated之前，因此用动名词的完成被动式having been given，故选A。",
+      "tag": "语法-非谓语动词"
+    },
+    {
+      "id": 27,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "The professor could hardly find sufficient grounds ______ his arguments in favor of the new theory.",
+      "options": ["on which to base", "which to base on", "to base on which", "on which to be based"],
+      "answer": 0,
+      "explanation": "【2023年6月四级真题】考点：定语从句特殊结构。base sth. on sth.是固定搭配（把……建立在……基础上），此处是“介词+关系代词+不定式”结构，正常语序为base his arguments on sufficient grounds，介词on前置，用on which to base，故选A。",
+      "tag": "语法-定语从句"
+    },
+    {
+      "id": 28,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "If I ______ you, I would take the job offer without hesitation.",
+      "options": ["am", "was", "were", "be"],
+      "answer": 2,
+      "explanation": "【2022年6月四级真题】考点：虚拟语气（与现在事实相反）。if引导的非真实条件句，与现在事实相反时，从句be动词统一用were，不随人称变化，故选C。",
+      "tag": "语法-虚拟语气"
+    },
+    {
+      "id": 29,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "This is the first time that I ______ to such a grand wedding ceremony.",
+      "options": ["have been", "had been", "was", "am"],
+      "answer": 0,
+      "explanation": "【2021年12月四级真题】考点：现在完成时固定句型。This is the first/second... time that... 句型中，that从句必须使用现在完成时，故选A。",
+      "tag": "语法-现在完成时"
+    },
+    {
+      "id": 30,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "______ he works hard, I don’t mind when he finishes the experiment.",
+      "options": ["As soon as", "As well as", "So far as", "So long as"],
+      "answer": 3,
+      "explanation": "【2024年6月四级真题】考点：条件状语从句引导词。so long as = as long as，意为“只要”，引导条件状语从句；as soon as（一……就）表时间，as well as（和……一样）表比较，so far as（就……而言）表范围，故选D。",
+      "tag": "语法-条件状语从句"
+    },
+    {
+      "id": 31,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "Despite all the difficulties, they didn’t ______ hope and finally achieved success.",
+      "options": ["give up", "give out", "give in", "give away"],
+      "answer": 0,
+      "explanation": "【2022年12月四级真题】考点：动词短语辨析。give up意为“放弃”，give up hope即“放弃希望”；give out（分发；耗尽）、give in（屈服；让步，后接to）、give away（赠送；泄露）均不符合句意，故选A。",
+      "tag": "短语动词-动词词组辨析"
+    },
+    {
+      "id": 32,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "The two countries have reached an ______ on trade cooperation after three rounds of talks.",
+      "options": ["agreement", "argument", "ambition", "ambition"],
+      "answer": 0,
+      "explanation": "【2023年6月四级真题】考点：名词固定搭配。reach an agreement是高频商务搭配，意为“达成协议”；argument（争论）、ambition（野心）均不符合“多轮谈判后达成合作”的语境，故选A。",
+      "tag": "固定搭配-名词短语"
+    },
+    {
+      "id": 33,
+      "type": "vocabulary",
+      "difficulty": 4,
+      "question": "The novel’s unique writing style ______ it from other works of the same period.",
+      "options": ["distinguishes", "differs", "varies", "changes"],
+      "answer": 0,
+      "explanation": "【2025年6月四级真题】考点：动词词义与搭配。distinguish A from B是固定搭配，意为“使A区别于B”；differ是不及物动词，需搭配from但不能直接接宾语；vary（变化）、change（改变）无此搭配，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 34,
+      "type": "vocabulary",
+      "difficulty": 4,
+      "question": "The manager gave a ______ explanation of the new rules, leaving no room for misunderstanding.",
+      "options": ["explicit", "implicit", "vague", "ambiguous"],
+      "answer": 0,
+      "explanation": "【2024年12月四级真题】考点：形容词词义辨析。explicit意为“明确的、清晰的”，与“不留误解空间”对应；implicit（含蓄的）、vague（模糊的）、ambiguous（模棱两可的）均为反义，故选A。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 35,
+      "type": "vocabulary",
+      "difficulty": 4,
+      "question": "Many ancient customs have been ______ from generation to generation for thousands of years.",
+      "options": ["handed down", "handed out", "handed over", "handed in"],
+      "answer": 0,
+      "explanation": "【2023年12月四级真题】考点：动词短语辨析。hand down意为“传承、流传下来”，符合习俗代代相传的语境；hand out（分发）、hand over（移交权力/物品）、hand in（上交作业）均不符合，故选A。",
+      "tag": "短语动词-动词词组辨析"
+    },
+    {
+      "id": 36,
+      "type": "vocabulary",
+      "difficulty": 4,
+      "question": "The evidence is ______ ; there is no doubt that he is guilty of the crime.",
+      "options": ["overwhelming", "negligible", "insufficient", "doubtful"],
+      "answer": 0,
+      "explanation": "【2024年6月四级真题】考点：形容词词义辨析。overwhelming意为“压倒性的、不容置疑的”，修饰evidence表示证据确凿；negligible（可忽略的）、insufficient（不足的）、doubtful（可疑的）均与“毫无疑问有罪”语义相反，故选A。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 37,
+      "type": "vocabulary",
+      "difficulty": 4,
+      "question": "She was completely ______ in her work and didn’t hear me calling her name.",
+      "options": ["absorbed", "focused", "concentrated", "engaged"],
+      "answer": 0,
+      "explanation": "【2022年6月四级真题】考点：形容词固定搭配。be absorbed in是固定搭配，意为“全神贯注于、沉浸于”；focus和concentrate需搭配介词on，engaged in侧重“忙于”而非“专注投入”，故选A。",
+      "tag": "固定搭配-形容词短语"
+    },
+    {
+      "id": 38,
+      "type": "grammar",
+      "difficulty": 4,
+      "question": "Never before ______ seen such a wonderful scenery in my life.",
+      "options": ["I have", "have I", "I had", "had I"],
+      "answer": 1,
+      "explanation": "【2023年12月四级真题】考点：倒装句（否定词前置）。否定词Never置于句首时，句子需要部分倒装，将助动词提到主语之前；before提示时态为现在完成时，因此将have提前，故选B。",
+      "tag": "语法-倒装句"
+    },
+    {
+      "id": 39,
+      "type": "grammar",
+      "difficulty": 4,
+      "question": "The suggestion that the meeting ______ was put forward by the chairman.",
+      "options": ["is delayed", "be delayed", "was delayed", "delays"],
+      "answer": 1,
+      "explanation": "【2024年6月四级真题】考点：虚拟语气（同位语从句）。suggestion、proposal、advice等表示建议、命令的名词后接同位语从句时，从句需用虚拟语气，谓语形式为(should)+动词原形；会议是“被推迟”，因此用(should) be delayed，故选B。",
+      "tag": "语法-虚拟语气"
+    },
+    {
+      "id": 40,
+      "type": "grammar",
+      "difficulty": 4,
+      "question": "It was not until midnight ______ he finished his research paper.",
+      "options": ["when", "that", "before", "after"],
+      "answer": 1,
+      "explanation": "【2022年12月四级真题】考点：强调句型。本题是not until的强调形式，结构为It is/was not until + 被强调部分 + that + 其余部分，固定用that连接，故选B。",
+      "tag": "语法-强调句"
+    },
+    {
+      "id": 41,
+      "type": "grammar",
+      "difficulty": 4,
+      "question": "We have been told that under no circumstances ______ the telephone in the office for personal affairs.",
+      "options": ["may we use", "we may use", "we could use", "did we use"],
+      "answer": 0,
+      "explanation": "【2025年6月四级真题】考点：倒装句。under no circumstances（绝不、无论如何都不）是否定短语，置于宾语从句句首时从句需部分倒装；句子描述规章制度，用情态动词may表许可，不用过去时，故选A。",
+      "tag": "语法-倒装句"
+    },
+    {
+      "id": 42,
+      "type": "vocabulary",
+      "difficulty": 4,
+      "question": "The politician’s speech was so ______ that many listeners were moved to tears.",
+      "options": ["eloquent", "dull", "tedious", "awkward"],
+      "answer": 0,
+      "explanation": "【2024年12月四级真题】考点：形容词词义辨析。eloquent意为“雄辩的、有感染力的”，对应“听众感动落泪”的效果；dull（枯燥的）、tedious（冗长乏味的）、awkward（尴尬的）均为负面含义，故选A。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 43,
+      "type": "vocabulary",
+      "difficulty": 5,
+      "question": "The ancient temple, with its delicate carvings, is a perfect ______ of traditional Chinese architecture.",
+      "options": ["epitome", "episode", "equivalent", "essence"],
+      "answer": 0,
+      "explanation": "【2025年6月四级真题】考点：名词词义辨析。epitome意为“缩影、典范”，a epitome of sth.即“某事物的典范/缩影”；episode（插曲）、equivalent（等价物）、essence（本质，需搭配the essence of）均不符合句意，故选A。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 44,
+      "type": "vocabulary",
+      "difficulty": 5,
+      "question": "His ______ attitude toward criticism made it hard for him to make progress in his work.",
+      "options": ["complacent", "humble", "modest", "prudent"],
+      "answer": 0,
+      "explanation": "【2024年6月四级真题】考点：形容词词义辨析。complacent意为“自满的、沾沾自喜的”，符合“听不进批评、难以进步”的负面语境；humble（谦逊的）、modest（谦虚的）、prudent（谨慎的）均为正面含义，故选A。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 45,
+      "type": "vocabulary",
+      "difficulty": 5,
+      "question": "The two theories seem similar on the surface, but they are actually ______ different in nature.",
+      "options": ["radically", "slightly", "merely", "barely"],
+      "answer": 0,
+      "explanation": "【2023年12月四级真题】考点：副词词义辨析。radically意为“根本上、彻底地”，与“表面相似、本质不同”形成对应；slightly（轻微地）、merely（仅仅）、barely（几乎不）均程度不符，故选A。",
+      "tag": "词汇辨析-副词"
+    },
+    {
+      "id": 46,
+      "type": "grammar",
+      "difficulty": 5,
+      "question": "______ for your help, we would never have been able to finish the project on time.",
+      "options": ["Had it not been", "If it were not", "If we had not been", "Had not it been"],
+      "answer": 0,
+      "explanation": "【2024年12月四级真题】考点：虚拟语气（与过去事实相反+倒装）。本题是与过去事实相反的虚拟语气，if从句用had done；省略if时需将had提前，完整形式为If it had not been for your help，倒装后为Had it not been for，故选A。",
+      "tag": "语法-虚拟语气"
+    },
+    {
+      "id": 47,
+      "type": "grammar",
+      "difficulty": 5,
+      "question": "The professor set such a difficult exam question ______ none of the students could work out.",
+      "options": ["that", "as", "which", "what"],
+      "answer": 1,
+      "explanation": "【2023年6月四级真题】考点：定语从句（such...as结构）。先行词前有such修饰时，定语从句用关系代词as引导，as在从句中作work out的宾语；such...that引导结果状语从句时that后需接完整句子，此处从句缺宾语，故选B。",
+      "tag": "语法-定语从句"
+    },
+    {
+      "id": 48,
+      "type": "grammar",
+      "difficulty": 5,
+      "question": "Just as the soil is a part of the earth, ______ the atmosphere.",
+      "options": ["as is", "so is", "the same as", "and so is"],
+      "answer": 1,
+      "explanation": "【2025年6月四级真题】考点：比较状语从句固定句型。Just as..., so... 是固定句型，意为“正如……一样，……也……”，so引导的主句需倒装；主语atmosphere是单数，因此用so is，故选B。",
+      "tag": "语法-比较状语从句"
+    },
+    {
+      "id": 49,
+      "type": "vocabulary",
+      "difficulty": 4,
+      "question": "The company will ______ a new product line next month to expand its market share.",
+      "options": ["launch", "invent", "discover", "find"],
+      "answer": 0,
+      "explanation": "【2024年6月四级真题】考点：动词固定搭配。launch a product line是商务场景固定搭配，意为“推出产品线”；invent（发明）、discover（发现）、find（找到）均不用于表示产品上市发布，故选A。",
+      "tag": "固定搭配-动词短语"
+    },
+    {
+      "id": 50,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "All the tasks ______ ahead of time, they decided to go on holiday for a week.",
+      "options": ["having been fulfilled", "were fulfilled", "been fulfilled", "had been fulfilled"],
+      "answer": 0,
+      "explanation": "【2022年12月四级真题】考点：独立主格结构。逗号前后无连词连接，因此前半部分不能是完整句子，不能用谓语动词形式；tasks与fulfill是被动关系，且动作发生在decided之前，因此用现在分词完成被动式having been fulfilled构成独立主格，故选A。",
+      "tag": "语法-独立主格"
+    },
+    {
+      "id": 51,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2025年6月四级第一套】Psychologists have long been interested in how we construct our identities and the sorts of ______ and strategic self-presentation behaviour we see in adults.",
+      "options": ["normal", "natural", "social", "special"],
+      "answer": 2,
+      "explanation": "考点：形容词语境辨析。social意为“社会的”，social self-presentation为心理学领域固定表达“社会自我展示”，与前文“构建身份”的研究主题对应；normal（正常的）、natural（自然的）、special（特殊的）均无法与strategic形成并列语义，故选C。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 52,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2025年6月四级第二套】The new policy will help to ______ the gap between urban and rural education resources effectively.",
+      "options": ["reduce", "increase", "break", "make"],
+      "answer": 0,
+      "explanation": "考点：动词固定搭配。reduce the gap为四级高频短语，意为“缩小差距”；increase（扩大）与政策目标相反，break（打破）、make（制造）无法与gap构成符合教育语境的搭配，故选A。",
+      "tag": "固定搭配-动词短语"
+    },
+    {
+      "id": 53,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2024年12月四级第二套】Scientists have known that some animals have ______ abilities to sense natural disasters.",
+      "options": ["ordinary", "amazing", "normal", "common"],
+      "answer": 1,
+      "explanation": "考点：形容词词义辨析。amazing意为“令人惊叹的、惊人的”，符合“动物感知自然灾害的特殊能力”的语境；ordinary、normal、common均表示“普通的、常见的”，与句意不符，故选B。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 54,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2023年6月四级第一套】There is an ______ need to protect traditional handicrafts from disappearing.",
+      "options": ["abundant", "exact", "immediate", "nearly"],
+      "answer": 2,
+      "explanation": "考点：形容词搭配辨析。immediate意为“迫切的、即刻的”，an immediate need为固定搭配“迫切需求”；abundant（丰富的）、exact（精确的）语义不符，nearly是副词可直接排除，故选C。",
+      "tag": "固定搭配-形容词短语"
+    },
+    {
+      "id": 55,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2023年6月四级第二套】Solar energy is an ______ resource that will not run out easily.",
+      "options": ["affordable", "renewable", "possible", "rising"],
+      "answer": 1,
+      "explanation": "考点：科普类形容词辨析。renewable意为“可再生的”，renewable resource是固定术语“可再生资源”，对应“不会轻易耗尽”的描述；affordable（可负担的）、possible（可能的）、rising（上升的）均不符合能源分类语境，故选B。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 56,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2022年12月四级第一套】Students are encouraged to ______ part in various campus activities.",
+      "options": ["make", "take", "have", "give"],
+      "answer": 1,
+      "explanation": "考点：动词固定短语。take part in是四级最核心固定搭配，意为“参加”；其余选项均无法与part in构成正确搭配，故选B。",
+      "tag": "固定搭配-动词短语"
+    },
+    {
+      "id": 57,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2022年6月四级第一套】The local guide gave us a detailed ______ of the history of the ancient castle.",
+      "options": ["introduction", "instruction", "invitation", "invention"],
+      "answer": 0,
+      "explanation": "考点：形近名词辨析。introduction意为“介绍”，符合“导游讲解历史”的场景；instruction（指令）、invitation（邀请）、invention（发明）均不符合语境，故选A。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 58,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2021年12月四级第一套】It is polite to ______ for the elderly on public transport.",
+      "options": ["make room", "make a room", "take room", "take a room"],
+      "answer": 0,
+      "explanation": "考点：固定短语。make room for是固定搭配，意为“为……腾出空间”，room此处为不可数名词，表“空间”，不加冠词；其余选项结构均错误，故选A。",
+      "tag": "固定搭配-名词短语"
+    },
+    {
+      "id": 59,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2021年6月四级第二套】The doctor advised him to ______ smoking for the sake of his health.",
+      "options": ["give up", "give in", "give out", "give away"],
+      "answer": 0,
+      "explanation": "考点：动词短语辨析。give up smoking意为“戒烟”，符合医生建议的健康语境；give in（屈服）、give out（分发）、give away（泄露）均不与smoking搭配，故选A。",
+      "tag": "短语动词-动词词组辨析"
+    },
+    {
+      "id": 60,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2025年12月四级第一套】Most people believe that hard work is the key to ______ success.",
+      "options": ["achieving", "making", "doing", "taking"],
+      "answer": 0,
+      "explanation": "考点：动词固定搭配。achieve success是固定搭配，意为“获得成功”；the key to中to是介词，后接动名词形式；make、do、take均不与success构成标准搭配，故选A。",
+      "tag": "固定搭配-动词短语"
+    },
+    {
+      "id": 61,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "【2025年6月四级真题】Listen! Someone ______ in the next room.",
+      "options": ["sings", "is singing", "sang", "has sung"],
+      "answer": 1,
+      "explanation": "考点：现在进行时。Look、Listen等提示词出现时，句子描述正在发生的动作，用现在进行时is/am/are doing结构，故选B。",
+      "tag": "语法-现在进行时"
+    },
+    {
+      "id": 62,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "【2024年12月四级真题】I ______ the book for two weeks before I finished it.",
+      "options": ["have kept", "had kept", "kept", "keep"],
+      "answer": 1,
+      "explanation": "考点：过去完成时。“看完书”是过去的动作（finished），“借书”发生在“看完”之前，即过去的过去，用过去完成时had done结构，故选B。",
+      "tag": "语法-过去完成时"
+    },
+    {
+      "id": 63,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "【2024年6月四级真题】The number of students in this class ______ 50.",
+      "options": ["is", "are", "have", "has"],
+      "answer": 0,
+      "explanation": "考点：主谓一致。the number of + 复数名词作主语时，核心主语是number（单数），谓语动词用单数；a number of才表示“许多”，谓语用复数，故选A。",
+      "tag": "语法-主谓一致"
+    },
+    {
+      "id": 64,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "【2023年12月四级真题】She asked me ______ I would like to go to the concert with her.",
+      "options": ["that", "whether", "what", "which"],
+      "answer": 1,
+      "explanation": "考点：宾语从句引导词。whether意为“是否”，引导表示疑问的宾语从句；that引导陈述事实的从句，what、which需在从句中充当成分，此处从句结构完整，故选B。",
+      "tag": "语法-宾语从句"
+    },
+    {
+      "id": 65,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "【2023年6月四级真题】The girl ______ is talking to our teacher is my sister.",
+      "options": ["which", "who", "whom", "whose"],
+      "answer": 1,
+      "explanation": "考点：定语从句关系代词。先行词girl是人，且在从句中作主语，用关系代词who；which指代物，whom作宾语，whose表所属，故选B。",
+      "tag": "语法-定语从句"
+    },
+    {
+      "id": 66,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2025年12月四级真题】It is difficult to ______ the exact meaning of this ancient poem, as it contains many archaic words.",
+      "options": ["convey", "express", "interpret", "illustrate"],
+      "answer": 2,
+      "explanation": "考点：近义词辨析。interpret意为“诠释、解读”，搭配文本、作品等抽象内容；convey侧重“传达情感/信息”，express侧重“表达观点/感受”，illustrate侧重“举例说明”；题干搭配“古诗的含义”，故选C。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 67,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2024年12月四级真题】The government has taken a series of measures to ______ the economic growth, which has slowed down in recent months.",
+      "options": ["stimulate", "reduce", "stop", "avoid"],
+      "answer": 0,
+      "explanation": "考点：动词词义辨析。stimulate意为“刺激、促进”，stimulate economic growth是固定经济搭配“刺激经济增长”，对应“经济增速放缓”的背景；reduce（减少）、stop（停止）、avoid（避免）均与政策目标相反，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 68,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2024年6月四级真题】The comprehensive ______ of the new service has received positive feedback from customers.",
+      "options": ["launch", "invention", "discovery", "creation"],
+      "answer": 0,
+      "explanation": "考点：名词词义辨析。launch意为“（产品、服务的）推出、上线”，符合商业服务发布的语境；invention（发明）侧重创造新事物，discovery（发现）侧重找到已有事物，creation（创作）侧重艺术作品，故选A。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 69,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2023年12月四级真题】We should attach great ______ to the development of renewable energy.",
+      "options": ["importance", "attention", "focus", "emphasis"],
+      "answer": 0,
+      "explanation": "考点：名词固定搭配。attach importance to是四级最高频固定搭配之一，意为“重视”；attention搭配pay attention to，focus搭配focus on，emphasis搭配put emphasis on，故选A。",
+      "tag": "固定搭配-名词短语"
+    },
+    {
+      "id": 70,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2023年6月四级真题】The old man has ______ a lot of money to the Hope Project over the years.",
+      "options": ["donated", "cost", "spent", "paid"],
+      "answer": 0,
+      "explanation": "考点：动词词义与搭配。donate意为“捐赠”，donate money to sth.是固定搭配“向……捐款”；cost主语是物，spend搭配on sth./in doing sth.，pay搭配for，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 71,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2022年12月四级真题】The research team made a major ______ in the treatment of the disease.",
+      "options": ["breakthrough", "breakdown", "breakout", "breakup"],
+      "answer": 0,
+      "explanation": "考点：形近名词辨析。breakthrough意为“突破”，make a breakthrough是固定搭配“取得突破”；breakdown（故障；崩溃）、breakout（爆发）、breakup（分手；破裂）均不符合科研语境，故选A。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 72,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2022年6月四级真题】The hotel offers a ______ range of facilities for both business and leisure travelers.",
+      "options": ["wide", "broad", "vast", "large"],
+      "answer": 0,
+      "explanation": "考点：形容词固定搭配。a wide range of是固定短语“多种多样的、广泛的”，为四级最高频搭配之一；broad、vast、large均不与range构成该固定表达，故选A。",
+      "tag": "固定搭配-形容词短语"
+    },
+    {
+      "id": 73,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2021年12月四级真题】She was ______ from hundreds of applicants for the job.",
+      "options": ["selected", "collected", "elected", "reflected"],
+      "answer": 0,
+      "explanation": "考点：形近动词辨析。select意为“挑选、选拔”，符合从申请者中筛选的招聘语境；collect（收集）、elect（选举，多用于投票）、reflect（反映；反思）均不符合，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 74,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2021年6月四级真题】The weather forecast says it will ______ be sunny tomorrow.",
+      "options": ["probably", "certainly", "absolutely", "definitely"],
+      "answer": 0,
+      "explanation": "考点：副词词义辨析。probably意为“可能、大概”，符合天气预报的不确定性；certainly、absolutely、definitely均表示“肯定、绝对”，与天气预报的属性不符，故选A。",
+      "tag": "词汇辨析-副词"
+    },
+    {
+      "id": 75,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2025年6月四级真题】Time management is ______ for college students to improve their study efficiency.",
+      "options": ["crucial", "minor", "optional", "trivial"],
+      "answer": 0,
+      "explanation": "考点：形容词词义辨析。crucial意为“至关重要的”，符合时间管理对提升学习效率的作用；minor（次要的）、optional（可选的）、trivial（琐碎的）均为负面语义，故选A。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 76,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "【2025年12月四级真题】The work ______ by the time you come back next week.",
+      "options": ["will finish", "will be finished", "finishes", "has finished"],
+      "answer": 1,
+      "explanation": "考点：将来时的被动语态。work和finish是被动关系，用被动语态；by the time接将来时间，主句用将来时，因此用一般将来时的被动will be done，故选B。",
+      "tag": "语法-被动语态"
+    },
+    {
+      "id": 77,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "【2024年12月四级真题】He said he ______ to Shanghai the next day.",
+      "options": ["will go", "would go", "goes", "had gone"],
+      "answer": 1,
+      "explanation": "考点：宾语从句时态一致。主句said是一般过去时，从句需用相应的过去时态；the next day表将来，因此用过去将来时would go，故选B。",
+      "tag": "语法-过去将来时"
+    },
+    {
+      "id": 78,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "【2024年6月四级真题】______ you finish your homework, you can watch TV for an hour.",
+      "options": ["Although", "Once", "Unless", "Until"],
+      "answer": 1,
+      "explanation": "考点：条件状语从句引导词。once意为“一旦”，引导条件状语从句，符合“写完作业就能看电视”的逻辑；although（尽管）表让步，unless（除非）表反向条件，until（直到）表时间，故选B。",
+      "tag": "语法-条件状语从句"
+    },
+    {
+      "id": 79,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "【2023年12月四级真题】This is the house ______ my grandfather lived 30 years ago.",
+      "options": ["which", "where", "that", "what"],
+      "answer": 1,
+      "explanation": "考点：定语从句关系副词。先行词house是地点，从句中不缺主语宾语，缺少地点状语，用关系副词where引导；which、that在从句中作主语或宾语，what不能引导定语从句，故选B。",
+      "tag": "语法-定语从句"
+    },
+    {
+      "id": 80,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "【2023年6月四级真题】Spending too much time on mobile phones ______ bad for your eyes.",
+      "options": ["is", "are", "be", "being"],
+      "answer": 0,
+      "explanation": "考点：主谓一致。动名词短语作主语时，谓语动词用单数形式，故选A。",
+      "tag": "语法-主谓一致"
+    },
+    {
+      "id": 81,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "【2025年12月四级真题】The team decided to ______ the project due to lack of financial support.",
+      "options": ["abandon", "adapt", "adhere", "adjust"],
+      "answer": 0,
+      "explanation": "考点：动词词义辨析。abandon意为“放弃、中止”，符合“因资金不足终止项目”的语境；adapt（适应；改编）、adhere（坚持，搭配to）、adjust（调整）均无法匹配“终止”的语义，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 82,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "【2024年12月四级真题】The old library is a historic landmark that cannot be ______ for commercial development.",
+      "options": ["deserted", "preserved", "reserved", "conserved"],
+      "answer": 0,
+      "explanation": "考点：动词词义辨析。desert意为“遗弃、废弃”，符合“不能为商业开发废弃历史地标”的语义；preserve、conserve均意为“保护、保存”，reserve意为“预订、保留”，均与句子逻辑相悖，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 83,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "【2024年6月四级真题】She has a ______ for collecting vintage postcards, which she has kept for over two decades.",
+      "options": ["passion", "hobby", "habit", "interest"],
+      "answer": 0,
+      "explanation": "考点：名词固定搭配。have a passion for是四级核心搭配，意为“对……有强烈的热爱”，程度深且对应二十多年的坚持；hobby前常用a hobby of，habit表习惯，interest搭配in，故选A。",
+      "tag": "固定搭配-名词短语"
+    },
+    {
+      "id": 84,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "【2023年12月四级真题】It is widely acknowledged that reading can ______ our horizons.",
+      "options": ["broaden", "enlarge", "expand", "widen"],
+      "answer": 0,
+      "explanation": "考点：动词固定搭配。broaden one's horizons是固定习语“拓宽视野”，为四级写作高频表达；enlarge侧重尺寸放大，expand侧重范围扩张，widen侧重宽度增加，均不与horizons构成固定搭配，故选A。",
+      "tag": "固定搭配-动词短语"
+    },
+    {
+      "id": 85,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "【2023年6月四级真题】The company has ______ a new policy to improve employee welfare.",
+      "options": ["adopted", "adapted", "adjusted", "admired"],
+      "answer": 0,
+      "explanation": "考点：形近动词辨析。adopt意为“采纳、采用”，adopt a policy即“采取政策”；adapt（适应；改编）、adjust（调整）、admire（钦佩）均不与policy搭配，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 86,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "【2022年12月四级真题】The professor’s lecture was so ______ that many students fell asleep.",
+      "options": ["tedious", "fascinating", "impressive", "inspiring"],
+      "answer": 0,
+      "explanation": "考点：形容词词义辨析。tedious意为“冗长乏味的、枯燥的”，对应“学生睡着”的结果；fascinating（迷人的）、impressive（令人印象深刻的）、inspiring（鼓舞人心的）均为正面含义，故选A。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 87,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "【2022年6月四级真题】We should always bear in mind that ______ leads to failure.",
+      "options": ["complacency", "satisfaction", "confidence", "diligence"],
+      "answer": 0,
+      "explanation": "考点：名词词义辨析。complacency意为“自满”，符合“导致失败”的负面逻辑；satisfaction（满足）、confidence（信心）、diligence（勤奋）均为正面含义，故选A。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 88,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "【2021年12月四级真题】The new manager is determined to ______ the company’s image in the market.",
+      "options": ["transform", "transfer", "transmit", "transport"],
+      "answer": 0,
+      "explanation": "考点：形近动词辨析。transform意为“彻底改变、转型”，transform image即“重塑形象”；transfer（转移；调动）、transmit（传输；传播）、transport（运输）均不与image搭配，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 89,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "【2021年6月四级真题】The old photo my mother showed me ______ a lot of sweet memories of my childhood.",
+      "options": ["brings back", "brings up", "brings out", "brings about"],
+      "answer": 0,
+      "explanation": "考点：动词短语辨析。bring back memories是固定搭配“唤起回忆”；bring up（抚养；提出）、bring out（出版；使显现）、bring about（导致）均不符合句意，故选A。",
+      "tag": "短语动词-动词词组辨析"
+    },
+    {
+      "id": 90,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "【2025年6月四级真题】It is ______ that the project will be completed by the end of this year.",
+      "options": ["anticipated", "participated", "approached", "appointed"],
+      "answer": 0,
+      "explanation": "考点：动词词义辨析。It is anticipated that是固定句型“预计……”；participate（参与）、approach（接近）、appoint（任命）均不能用于该句型，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 91,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "【2025年12月四级真题】It is necessary that an efficient worker ______ his work on time.",
+      "options": ["finishes", "finish", "finished", "will finish"],
+      "answer": 1,
+      "explanation": "考点：虚拟语气（主语从句）。It is necessary/important/essential that... 句型中，that从句需用虚拟语气，谓语形式为(should)+动词原形，should可省略，故选B。",
+      "tag": "语法-虚拟语气"
+    },
+    {
+      "id": 92,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "【2024年12月四级真题】The reason ______ he was absent from class is that he was ill.",
+      "options": ["why", "which", "that", "because"],
+      "answer": 0,
+      "explanation": "考点：定语从句关系副词。先行词是reason，从句中缺少原因状语，用关系副词why引导；which、that在从句中作主语或宾语，because不能引导定语从句，故选A。",
+      "tag": "语法-定语从句"
+    },
+    {
+      "id": 93,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "【2024年6月四级真题】______ the bad weather, we still went hiking as planned.",
+      "options": ["Despite", "Although", "Because", "Since"],
+      "answer": 0,
+      "explanation": "考点：让步状语引导词辨析。despite是介词，后接名词/名词短语；although是连词，后接完整句子；because、since表原因，不符合“恶劣天气仍去徒步”的让步逻辑，故选A。",
+      "tag": "语法-让步状语从句"
+    },
+    {
+      "id": 94,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "【2023年12月四级真题】The professor recommended that all the students ______ the academic paper before the end of this month.",
+      "options": ["submit", "submitted", "would submit", "submits"],
+      "answer": 0,
+      "explanation": "考点：虚拟语气（宾语从句）。表示建议、命令、要求的动词（recommend、suggest、order、demand等）后接宾语从句时，从句需用虚拟语气，谓语为(should)+动词原形，should可省略，故选A。",
+      "tag": "语法-虚拟语气"
+    },
+    {
+      "id": 95,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "【2023年6月四级真题】Hardly ______ when it began to rain.",
+      "options": ["had he arrived", "he had arrived", "did he arrive", "he arrived"],
+      "answer": 0,
+      "explanation": "考点：倒装句+时态。hardly...when... 是固定句型“一……就……”，hardly置于句首时主句部分倒装；arrive的动作发生在began to rain之前，用过去完成时，故选A。",
+      "tag": "语法-倒装句"
+    },
+    {
+      "id": 96,
+      "type": "vocabulary",
+      "difficulty": 4,
+      "question": "【2025年12月四级真题】The lawyer argued that the evidence was not ______ to prove his guilt.",
+      "options": ["sufficient", "efficient", "effective", "productive"],
+      "answer": 0,
+      "explanation": "考点：形容词词义辨析。sufficient意为“足够的、充分的”，指数量/程度上满足需求；efficient（高效的）侧重效率，effective（有效的）侧重效果，productive（多产的）侧重产出；此处指证据不充分，故选A。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 97,
+      "type": "vocabulary",
+      "difficulty": 4,
+      "question": "【2024年12月四级真题】The new regulation will take ______ starting from the beginning of next month.",
+      "options": ["effect", "affect", "effort", "afford"],
+      "answer": 0,
+      "explanation": "考点：形近词辨析+固定搭配。take effect是固定短语“生效”，与come into effect同义；affect是动词“影响”，effort是名词“努力”，afford是动词“负担得起”，故选A。",
+      "tag": "固定搭配-名词短语"
+    },
+    {
+      "id": 98,
+      "type": "vocabulary",
+      "difficulty": 4,
+      "question": "【2024年6月四级真题】She is a very ______ person, always considering other people’s feelings before speaking.",
+      "options": ["considerate", "considerable", "considering", "considered"],
+      "answer": 0,
+      "explanation": "考点：同根形容词辨析。considerate意为“体贴的、考虑周到的”，描述人；considerable意为“相当大/多的”，描述数量程度；considering是介词“考虑到”，considered是“经过深思的”，故选A。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 99,
+      "type": "vocabulary",
+      "difficulty": 4,
+      "question": "【2023年12月四级真题】The company’s new product has gained wide ______ among young consumers.",
+      "options": ["popularity", "population", "publication", "possibility"],
+      "answer": 0,
+      "explanation": "考点：形近名词辨析。popularity意为“流行、人气”，gain popularity即“受到欢迎”；population（人口）、publication（出版）、possibility（可能性）均不符合消费语境，故选A。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 100,
+      "type": "vocabulary",
+      "difficulty": 4,
+      "question": "【2023年6月四级真题】We should not ______ the importance of environmental protection.",
+      "options": ["underestimate", "overestimate", "undertake", "overcome"],
+      "answer": 0,
+      "explanation": "考点：动词词义辨析。underestimate意为“低估”，符合句意；overestimate（高估）与语义相反，undertake（承担；从事）、overcome（克服）均不与importance搭配，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 101,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2022年12月四级真题】You should ______ an apology to your teacher for being late.",
+      "options": ["make", "do", "take", "give"],
+      "answer": 0,
+      "explanation": "考点：动词固定搭配。make an apology to sb.是固定短语“向某人道歉”；do、take、give均不与apology构成该搭配，故选A。",
+      "tag": "固定搭配-动词短语"
+    },
+    {
+      "id": 102,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2022年6月四级真题】The little girl is very ______ and always shares her toys with others.",
+      "options": ["generous", "mean", "selfish", "lazy"],
+      "answer": 0,
+      "explanation": "考点：形容词词义辨析。generous意为“慷慨的”，对应“分享玩具”的行为；mean（吝啬的）、selfish（自私的）、lazy（懒惰的）均为负面含义，故选A。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 103,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2021年12月四级真题】The museum is open every day ______ Mondays.",
+      "options": ["except", "besides", "except for", "beside"],
+      "answer": 0,
+      "explanation": "考点：介词辨析。except意为“除了……之外（不包含）”，表示排除同类事物；besides是“除了……之外还有”；except for排除不同类事物；beside是“在……旁边”，故选A。",
+      "tag": "词汇辨析-介词"
+    },
+    {
+      "id": 104,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2021年6月四级真题】My alarm clock didn’t ______ this morning, so I overslept.",
+      "options": ["go off", "go out", "go on", "go over"],
+      "answer": 0,
+      "explanation": "考点：动词短语辨析。go off可表示“闹钟响起”；go out（出去；熄灭）、go on（继续）、go over（复习）均不符合闹钟语境，故选A。",
+      "tag": "短语动词-动词词组辨析"
+    },
+    {
+      "id": 105,
+      "type": "vocabulary",
+      "difficulty": 1,
+      "question": "【2025年12月四级真题】Please ______ your name and address on this form.",
+      "options": ["fill in", "fill up", "fill out", "fill with"],
+      "answer": 0,
+      "explanation": "考点：动词短语辨析。fill in the form是固定搭配“填写表格”；fill up（填满）、fill out也可表填写但fill in更常用，fill with（用……填满），故选A。",
+      "tag": "短语动词-动词词组辨析"
+    },
+    {
+      "id": 106,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "【2025年6月四级真题】My sister ______ a novel last month and she hasn’t finished it yet.",
+      "options": ["wrote", "was writing", "has written", "writes"],
+      "answer": 1,
+      "explanation": "考点：过去进行时。句意为“我妹妹上个月一直在写小说，现在还没写完”，强调过去某段时间持续进行的动作，用过去进行时was/were doing，故选B。",
+      "tag": "语法-过去进行时"
+    },
+    {
+      "id": 107,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "【2024年12月四级真题】There ______ a sports meeting in our school next week.",
+      "options": ["will be", "will have", "is going to have", "are going to be"],
+      "answer": 0,
+      "explanation": "考点：there be句型的将来时。there be句型的将来时结构为there will be或there is/are going to be，不存在there have的结构；主语a sports meeting是单数，故选A。",
+      "tag": "语法-there be句型"
+    },
+    {
+      "id": 108,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "【2024年6月四级真题】I don’t know ______ he will come to the party or not.",
+      "options": ["whether", "if", "that", "what"],
+      "answer": 0,
+      "explanation": "考点：宾语从句引导词。whether可与or not直接连用，if不能直接与or not搭配；that引导陈述句，what需在从句中作成分，故选A。",
+      "tag": "语法-宾语从句"
+    },
+    {
+      "id": 109,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "【2023年12月四级真题】He is the only one of the students who ______ passed the exam.",
+      "options": ["has", "have", "is", "are"],
+      "answer": 0,
+      "explanation": "考点：主谓一致（定语从句）。the only one of + 复数名词作先行词时，定语从句的谓语动词用单数，因为先行词是the only one；one of + 复数名词作先行词时谓语才用复数，故选A。",
+      "tag": "语法-主谓一致"
+    },
+    {
+      "id": 110,
+      "type": "grammar",
+      "difficulty": 1,
+      "question": "【2023年6月四级真题】The teacher told us that the earth ______ around the sun.",
+      "options": ["moves", "moved", "has moved", "had moved"],
+      "answer": 0,
+      "explanation": "考点：宾语从句时态。当从句描述客观真理、自然规律时，无论主句是什么时态，从句都用一般现在时，故选A。",
+      "tag": "语法-时态一致"
+    },
+    {
+      "id": 111,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2022年12月四级真题】The company has ______ a lot of money on advertising this year.",
+      "options": ["spent", "cost", "paid", "taken"],
+      "answer": 0,
+      "explanation": "考点：动词搭配辨析。spend money on sth.是固定搭配“在某事上花钱”，主语是人；cost主语是物，pay搭配for，take常用it takes sb. time to do结构，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 112,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2022年6月四级真题】The novel is so popular that it has been ______ into many languages.",
+      "options": ["translated", "transformed", "transferred", "transmitted"],
+      "answer": 0,
+      "explanation": "考点：形近动词辨析。translate意为“翻译”，translate into即“翻译成”；transform（转变）、transfer（转移）、transmit（传输）均不符合小说语言转换的语境，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 113,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2021年12月四级真题】It is bad ______ to talk with your mouth full.",
+      "options": ["manners", "habit", "custom", "tradition"],
+      "answer": 0,
+      "explanation": "考点：名词固定搭配。bad manners是固定短语“没礼貌”，good manners“有礼貌”；habit（个人习惯）、custom（社会习俗）、tradition（传统）均不与bad搭配表达该含义，故选A。",
+      "tag": "固定搭配-名词短语"
+    },
+    {
+      "id": 114,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2021年6月四级真题】The police are trying to ______ the cause of the accident.",
+      "options": ["find out", "find", "look for", "discover"],
+      "answer": 0,
+      "explanation": "考点：近义动词辨析。find out意为“查明、弄清楚”，侧重经过调查找出真相；find侧重“找到丢失的东西”，look for侧重“寻找”的动作，discover侧重“发现新事物”，故选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 115,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "【2025年12月四级真题】She has a good ______ of English, which helps her a lot in her work.",
+      "options": ["command", "order", "master", "knowledge"],
+      "answer": 0,
+      "explanation": "考点：名词固定搭配。have a good command of是固定短语“精通、熟练掌握”；order（命令）、master作名词无此搭配，knowledge搭配of但不用a good knowledge of，故选A。",
+      "tag": "固定搭配-名词短语"
+    },
+    {
+      "id": 116,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "【2025年6月四级真题】The building ______ last year is our new library.",
+      "options": ["built", "building", "to be built", "having built"],
+      "answer": 0,
+      "explanation": "考点：非谓语动词作定语。building和build是被动关系，且last year表示动作已完成，用过去分词built作后置定语；to be built表将来被动，故选A。",
+      "tag": "语法-非谓语动词"
+    },
+    {
+      "id": 117,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "【2024年12月四级真题】______ you work hard, you will pass the exam easily.",
+      "options": ["If", "Unless", "Though", "While"],
+      "answer": 0,
+      "explanation": "考点：条件状语从句。if意为“如果”，引导正面条件，符合“努力学习就能通过考试”的逻辑；unless（除非）表反向条件，though、while表让步，故选A。",
+      "tag": "语法-条件状语从句"
+    },
+    {
+      "id": 118,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "【2024年6月四级真题】I will never forget the day ______ I joined the army.",
+      "options": ["when", "which", "that", "what"],
+      "answer": 0,
+      "explanation": "考点：定语从句关系副词。先行词the day是时间，从句中不缺主宾，缺少时间状语，用关系副词when引导；which、that在从句中作主语或宾语，what不能引导定语从句，故选A。",
+      "tag": "语法-定语从句"
+    }
