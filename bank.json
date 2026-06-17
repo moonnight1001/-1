@@ -1181,5 +1181,1207 @@
       "explanation": "考点：定语从句关系副词。先行词the day是时间，从句中不缺主宾，缺少时间状语，用关系副词when引导；which、that在从句中作主语或宾语，what不能引导定语从句，故选A。",
       "tag": "语法-定语从句"
     }
+    {
+      "id": 119,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "By law, when one makes a large purchase, he should have ______ opportunity to change his mind.",
+      "options": ["accurate", "urgent", "excessive", "adequate"],
+      "answer": 3,
+      "explanation": "【2004年6月四级真题】考点：形容词辨析。adequate 充足的；accurate准确的，urgent紧急的，excessive过多的。句意：法律规定大额消费时消费者应有充足反悔机会，选D。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 120,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "Many people lost their jobs during the business ______.",
+      "options": ["desperation", "depression", "descent", "decrease"],
+      "answer": 1,
+      "explanation": "【2004年6月四级真题】考点：名词固定搭配。business depression 经济萧条；desperation绝望，descent下降，decrease减少，选B。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 121,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "Some diseases are ______ by certain water animals.",
+      "options": ["transplanted", "transformed", "transported", "transmitted"],
+      "answer": 3,
+      "explanation": "【2004年6月四级真题】考点：形近动词。transmit疾病传播；transplant移植，transform改造，transport运输，选D。",
+      "tag": "词汇辨析-形近动词"
+    },
+    {
+      "id": 122,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The writer was so ______ in her work that she didn't notice him enter the room.",
+      "options": ["absorbed", "abandoned", "focused", "centered"],
+      "answer": 0,
+      "explanation": "【2004年6月四级真题】考点：固定搭配。be absorbed in 全神贯注于；focus搭配on，选A。",
+      "tag": "词汇辨析-形容词搭配"
+    },
+    {
+      "id": 123,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "He was punished ______ he should make the same mistake again.",
+      "options": ["unless", "provided", "if", "lest"],
+      "answer": 3,
+      "explanation": "【2004年6月四级真题】考点：连词虚拟。lest意为“以防”，从句常用(should) do，选D。",
+      "tag": "语法结构-连词虚拟"
+    },
+    {
+      "id": 124,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The lawyer advised him to drop the ______, since he stood little chance to win.",
+      "options": ["event", "incident", "case", "affair"],
+      "answer": 2,
+      "explanation": "【2004年6月四级真题】考点：法律词汇。case 诉讼案件，选C。",
+      "tag": "词汇辨析-名词场景"
+    },
+    {
+      "id": 125,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "There was a big hole in the road which ______ the traffic.",
+      "options": ["set back", "stood back", "held up", "kept down"],
+      "answer": 2,
+      "explanation": "【2004年6月四级真题】考点：动词短语。hold up 阻碍、耽搁，选C。",
+      "tag": "词汇辨析-动词短语"
+    },
+    {
+      "id": 126,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "We'd better focus our attention on the problems ______ at the meeting.",
+      "options": ["discussed", "to discuss", "discussing", "being discuss"],
+      "answer": 0,
+      "explanation": "【2005年1月四级真题】考点：非谓语作后置定语。problems和discuss被动、已完成，用过去分词discussed，选A。",
+      "tag": "语法结构-非谓语动词"
+    },
+    {
+      "id": 127,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "When I go out in the evening I use the bike ______ the car if I can.",
+      "options": ["rather than", "regardless of", "in spite of", "other than"],
+      "answer": 0,
+      "explanation": "【2005年1月四级真题】考点：短语辨析。rather than 而不是，选A。",
+      "tag": "词汇辨析-连词短语"
+    },
+    {
+      "id": 128,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The ______ of blood always makes him feel sick.",
+      "options": ["sight", "view", "look", "form"],
+      "answer": 0,
+      "explanation": "【2005年1月四级真题】考点：名词辨析。the sight of 一看见，固定搭配，选A。",
+      "tag": "词汇辨析-名词固定搭配"
+    },
+    {
+      "id": 129,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "No sooner ______ arrived at the station than the train left.",
+      "options": ["we have", "had we", "we had", "have we"],
+      "answer": 1,
+      "explanation": "【2005年1月四级真题】考点：倒装时态。no sooner置于句首主句倒装，过去完成时，选B。",
+      "tag": "语法结构-倒装句"
+    },
+    {
+      "id": 130,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "I didn't know the word. I had to ______ a dictionary.",
+      "options": ["look out", "make out", "refer to", "go over"],
+      "answer": 2,
+      "explanation": "【2005年1月四级真题】考点：短语。refer to 查阅（词典），选C。",
+      "tag": "词汇辨析-动词短语"
+    },
+    {
+      "id": 131,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "The president promised to keep all the board members ______ of how the negotiations were going on.",
+      "options": ["inform", "informing", "informed", "to be informed"],
+      "answer": 2,
+      "explanation": "【2005年1月四级真题】考点：宾补被动。keep sb. informed of 随时告知某人，选C。",
+      "tag": "语法结构-非谓语宾补"
+    },
+    {
+      "id": 132,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "All the tasks ______ ahead of time, they decided to go on holiday for a week.",
+      "options": ["having been fulfilled", "were fulfilled", "had been fulfilled", "been fulfilled"],
+      "answer": 0,
+      "explanation": "【2005年1月四级真题】考点：独立主格。前后无连词，用分词完成被动独立主格，选A。",
+      "tag": "语法结构-独立主格"
+    },
+    {
+      "id": 133,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "This kind of glasses manufactured by experienced craftsmen ______ comfortably.",
+      "options": ["is worn", "wears", "wearing", "are worn"],
+      "answer": 1,
+      "explanation": "【2005年1月四级真题】考点：主动表被动。wear此处表“穿戴起来…”，主动形式表被动含义；主语this kind单数，选B。",
+      "tag": "语法结构-主动表被动"
+    },
+    {
+      "id": 134,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "Some women ______ a good salary in a job instead of staying home, but they decided not to work for the sake of the family.",
+      "options": ["must make", "should have made", "would make", "could have made"],
+      "answer": 3,
+      "explanation": "【2005年1月四级真题】考点：虚拟语气。could have done 本可以做（实际没做），选D。",
+      "tag": "语法结构-虚拟语气"
+    },
+    {
+      "id": 135,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "A fire engine must have priority as it usually has to deal with some kind of ______.",
+      "options": ["precaution", "crisis", "emergency", "urgency"],
+      "answer": 2,
+      "explanation": "【2005年6月四级真题】考点：名词。emergency 紧急事故，固定搭配deal with emergency，选C。",
+      "tag": "词汇辨析-名词场景"
+    },
+    {
+      "id": 136,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "He said that the driver must have had an accident; otherwise he ______ by then.",
+      "options": ["would have arrived", "must have arrived", "should arrive", "would arrive"],
+      "answer": 0,
+      "explanation": "【2005年6月四级真题】考点：otherwise虚拟。对过去虚拟，would have done，选A。",
+      "tag": "语法结构-含蓄虚拟"
+    },
+    {
+      "id": 137,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The film provides a deep ______ into a wide range of human qualities and feelings.",
+      "options": ["insight", "imagination", "fancy", "outlook"],
+      "answer": 0,
+      "explanation": "【2005年6月四级真题】考点：固定搭配。insight into 对…深刻洞察，选A。",
+      "tag": "词汇辨析-名词搭配"
+    },
+    {
+      "id": 138,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "It is high time that such practices ______.",
+      "options": ["are ended", "be ended", "were ended", "must be ended"],
+      "answer": 2,
+      "explanation": "【2005年6月四级真题】考点：虚拟句型。It is high time that从句用一般过去时表虚拟，选C。",
+      "tag": "语法结构-虚拟句型"
+    },
+    {
+      "id": 139,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "Urban crowdedness would be greatly relieved if only the ______ charged on public transport were more reasonable.",
+      "options": ["fees", "fares", "payments", "costs"],
+      "answer": 1,
+      "explanation": "【2005年6月四级真题】考点：交通词汇。fare 车船票价，选B。",
+      "tag": "词汇辨析-名词场景"
+    },
+    {
+      "id": 140,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "The doctor had almost lost hope at one point, but the patient finally ______.",
+      "options": ["pulled out", "pulled through", "pulled up", "pulled over"],
+      "answer": 1,
+      "explanation": "【2005年6月四级真题】考点：短语。pull through 渡过难关、康复，选B。",
+      "tag": "词汇辨析-动词短语"
+    },
+    {
+      "id": 141,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "She cooked the meat for a long time so as to make it ______ enough to eat.",
+      "options": ["mild", "slight", "light", "tender"],
+      "answer": 3,
+      "explanation": "【2000年1月四级真题】考点：形容词。tender形容肉质鲜嫩软烂，选D。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 142,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "______ receiving financial support from family, community or the government is allowed, it is never admired.",
+      "options": ["As", "Once", "Although", "Lest"],
+      "answer": 2,
+      "explanation": "【2006年1月四级真题】考点：让步状语。although虽然，引导让步，选C。",
+      "tag": "语法结构-状语从句"
+    },
+    {
+      "id": 143,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The basic features of the communication process are identified in one question: Who says ______ through what channel to whom?",
+      "options": ["how", "when", "what", "such"],
+      "answer": 2,
+      "explanation": "【2006年1月四级真题】考点：宾语。say what 说什么，what作宾语，选C。",
+      "tag": "语法结构-名词性从句"
+    },
+    {
+      "id": 144,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "I didn't mean ______ anything but those apples looked so good I couldn't resist ______ one.",
+      "options": ["to eat; trying", "eating; to try", "to eat; to try", "eating; trying"],
+      "answer": 0,
+      "explanation": "【2006年1月四级真题】考点：非谓语搭配。mean to do打算；resist doing忍不住做，选A。",
+      "tag": "语法结构-非谓语固定搭配"
+    },
+    {
+      "id": 145,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The old couple decided to ______ a boy and a girl though they had three of their own.",
+      "options": ["adapt", "bring", "receive", "adopt"],
+      "answer": 3,
+      "explanation": "【2006年1月四级真题】考点：形近动词。adopt收养；adapt
+     }
+    
+    "id": 146,
+       "type": "vocabulary",
+       "difficulty": 3,
+       "question": "The government is trying to do something to ______ better understanding between the two countries.",
+       "options": ["raise", "promote", "heighten", "increase"],
+       "answer": 1,
+       "explanation": "【2006年1月四级真题】考点：动词搭配。promote understanding 增进理解，选B。",
+       "tag": "词汇辨析-动词搭配"
+     },
+     {
+       "id": 147,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "If you ______ that late movie last night, you wouldn't be sleepy now.",
+       "options": ["haven't watched", "didn't watch", "hadn't watched", "wouldn't have watched"],
+       "answer": 2,
+       "explanation": "【2006年6月四级真题】考点：混合虚拟。从句对过去虚拟用had done，主句对现在虚拟，选C。",
+       "tag": "语法结构-混合虚拟语气"
+     },
+     {
+       "id": 148,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The soldier was ______ of running away when the enemy attacked.",
+       "options": ["scolded", "charged", "accused", "punished"],
+       "answer": 2,
+       "explanation": "【2006年6月四级真题】考点：动词搭配。be accused of 被指控；charge搭配with，选C。",
+       "tag": "词汇辨析-动词固定搭配"
+     },
+     {
+       "id": 149,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "All the employees except the manager ______ to work online at home.",
+       "options": ["encourages", "encourage", "is encouraged", "are encouraged"],
+       "answer": 3,
+       "explanation": "【2006年6月四级真题】考点：主谓一致。主语all the employees复数，被动语态，选D。",
+       "tag": "语法结构-主谓一致"
+     },
+     {
+       "id": 150,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "It is not easy to learn English well but if you ______, you will succeed in the end.",
+       "options": ["hang up", "hang about", "hang on", "hang onto"],
+       "answer": 2,
+       "explanation": "【2006年6月四级真题】考点：短语。hang on 坚持下去，选C。",
+       "tag": "词汇辨析-动词短语"
+     },
+     {
+       "id": 151,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The sports meet, originally due to be held last Friday, was finally ______ because of the bad weather.",
+       "options": ["set off", "broken off", "worn off", "called off"],
+       "answer": 3,
+       "explanation": "【2007年1月四级真题】考点：短语。call off 取消（活动），选D。",
+       "tag": "词汇辨析-动词短语"
+     },
+     {
+       "id": 152,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "The hours ______ the children spend in their one-way relationship with television people undoubtedly affect their relationships with real-life people.",
+       "options": ["in which", "on which", "when", "that"],
+       "answer": 3,
+       "explanation": "【2007年1月四级真题】考点：定语从句。先行词hours在从句作spend宾语，用that，选D。",
+       "tag": "语法结构-定语从句"
+     },
+     {
+       "id": 153,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "I'd rather have a room of my own, however small it is, than ______ a room with others.",
+       "options": ["to share", "to have shared", "share", "sharing"],
+       "answer": 2,
+       "explanation": "【2007年1月四级真题】考点：平行结构。would rather do than do，前后均用动词原形，选C。",
+       "tag": "语法结构-固定平行句型"
+     },
+     {
+       "id": 154,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "In Britain people ______ four million tons of potatoes every year.",
+       "options": ["swallow", "dispose", "consume", "exhaust"],
+       "answer": 2,
+       "explanation": "【2007年1月四级真题】考点：动词。consume 消耗、食用，选C。",
+       "tag": "词汇辨析-动词"
+     },
+     {
+       "id": 155,
+       "type": "grammar",
+       "difficulty": 3,
+       "question": "We were struck by the extent ______ which teachers' decisions served the interests of the school rather than those of the students.",
+       "options": ["to", "for", "in", "with"],
+       "answer": 0,
+       "explanation": "【2007年6月四级真题】考点：介词提前定语从句。to the extent 在某种程度上，介词to提前，选A。",
+       "tag": "语法结构-介词+关系代词"
+     },
+     {
+       "id": 156,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The new appointment of our president ______ from the very beginning of next semester.",
+       "options": ["takes effect", "takes part", "takes place", "takes turns"],
+       "answer": 0,
+       "explanation": "【2007年6月四级真题】考点：短语。take effect 生效，选A。",
+       "tag": "词汇辨析-动词短语"
+     },
+     {
+       "id": 157,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "It is useful to be able to predict the extent ______ which a price change will affect supply and demand.",
+       "options": ["from", "with", "to", "for"],
+       "answer": 2,
+       "explanation": "【2007年6月四级真题】考点：固定介词搭配to the extent，选C。",
+       "tag": "语法结构-介词+定语从句"
+     },
+     {
+       "id": 158,
+       "type": "vocabulary",
+       "difficulty": 3,
+       "question": "When he realized he had been ______ to sign the contract by intrigue, he threatened to start legal proceedings to cancel the agreement.",
+       "options": ["elicited", "excited", "deduced", "induced"],
+       "answer": 3,
+       "explanation": "【2008年1月四级真题】考点：动词。induce 诱使、劝说；elicit引出，deduce推断，选D。",
+       "tag": "词汇辨析-动词"
+     },
+     {
+       "id": 159,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "______ evidence that language-acquiring ability must be stimulated.",
+       "options": ["If being", "There is", "It is", "There being"],
+       "answer": 1,
+       "explanation": "【2008年1月四级真题】考点：there be句型。there is evidence that 有证据表明，选B。",
+       "tag": "语法结构-there be句型"
+     },
+     {
+       "id": 160,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The store had no more red shoes ______, so Mary chose brown ones instead.",
+       "options": ["in demand", "in stock", "in store", "in supply"],
+       "answer": 1,
+       "explanation": "【2008年1月四级真题】考点：短语。in stock 有存货，no more in stock 断货，选B。",
+       "tag": "词汇辨析-介词短语"
+     },
+     {
+       "id": 161,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The coming of the railways in the 1830s ______ our society and economic life.",
+       "options": ["transformed", "transported", "transferred", "transmitted"],
+       "answer": 0,
+       "explanation": "【2008年6月四级真题】考点：形近动词。transform彻底改变，选A。",
+       "tag": "词汇辨析-形近动词"
+     },
+     {
+       "id": 162,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "What a lovely party! It's worth ______ all my life.",
+       "options": ["remembering", "to remember", "to be remembered", "being remembered"],
+       "answer": 0,
+       "explanation": "【2008年6月四级真题】考点：固定搭配。be worth doing 值得（主动表被动），选A。",
+       "tag": "语法结构-非谓语固定搭配"
+     },
+     {
+       "id": 163,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "I will never forget the day ______ we spent together studying in the library.",
+       "options": ["when", "on which", "which", "what"],
+       "answer": 2,
+       "explanation": "【2008年6月四级真题】考点：定语从句。先行词the day作spent宾语，用which，选C。",
+       "tag": "语法结构-定语从句"
+     },
+     {
+       "id": 164,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The new house cost me a large ______ of money, but it's well worth it.",
+       "options": ["amount", "number", "size", "sum"],
+       "answer": 0,
+       "explanation": "【2009年1月四级真题】考点：名词搭配。a large amount of + 不可数名词money，选A。",
+       "tag": "词汇辨析-名词量词搭配"
+     },
+     {
+       "id": 165,
+       "type": "grammar",
+       "difficulty": 3,
+       "question": "Not only ______ a promise, but also he kept it.",
+       "options": ["he made", "did he make", "he had made", "had he made"],
+       "answer": 1,
+       "explanation": "【2009年1月四级真题】考点：not only倒装，后句kept一般过去时，倒装用did，选B。",
+       "tag": "语法结构-部分倒装"
+     },
+
+
+    "id": 166,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The manager spoke highly of such ______ as loyalty, courage and truthfulness shown by his employees.",
+       "options": ["virtues", "features", "properties", "characteristics"],
+       "answer": 0,
+       "explanation": "【2009年1月四级真题】考点：名词。virtue美德（忠诚、勇气等），选A。",
+       "tag": "词汇辨析-名词"
+     },
+     {
+       "id": 167,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "We have to try every means to ______ the costs of the construction project.",
+       "options": ["bring off", "bring forth", "bring down", "bring back"],
+       "answer": 2,
+       "explanation": "【2009年6月四级真题】考点：短语。bring down 降低（成本、价格），选C。",
+       "tag": "词汇辨析-动词短语"
+     },
+     {
+       "id": 168,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "Your hair wants ______. You'd better have it done tomorrow.",
+       "options": ["cut", "to cut", "cutting", "being cut"],
+       "answer": 2,
+       "explanation": "【2009年6月四级真题】考点：主动表被动。want doing = need doing 需要被…，选C。",
+       "tag": "语法结构-主动表被动固定句型"
+     },
+     {
+       "id": 169,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "As a result of the radio ______ for help for the earthquake victims, over a million pounds have been raised.",
+       "options": ["appeal", "notice", "advertisement", "broadcast"],
+       "answer": 0,
+       "explanation": "【2010年1月四级真题】考点：名词。appeal for help 呼吁援助，选A。",
+       "tag": "词汇辨析-名词搭配"
+     },
+     {
+       "id": 170,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "______ he works hard, I don't mind when he finishes the experiment.",
+       "options": ["As soon as", "As well as", "So far as", "So long as"],
+       "answer": 3,
+       "explanation": "【2010年1月四级真题】考点：条件连词。so long as 只要，选D。",
+       "tag": "语法结构-条件状语从句"
+     },
+     {
+       "id": 171,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The medicine is on sale everywhere. You can get it at ______ chemist's.",
+       "options": ["each", "some", "any", "certain"],
+       "answer": 2,
+       "explanation": "【2010年6月四级真题】考点：限定词。any 任何一家药店，符合“到处有售”，选C。",
+       "tag": "词汇辨析-限定词"
+     },
+     {
+       "id": 172,
+       "type": "grammar",
+       "difficulty": 3,
+       "question": "Although punctual himself, the professor was quite used ______ late for his lecture.",
+       "options": ["to have students", "for students to be", "students' being", "to students' being"],
+       "answer": 3,
+       "explanation": "【2010年6月四级真题】考点：固定搭配。be used to doing 习惯于；students' being动名词复合结构，选D。",
+       "tag": "语法结构-动名词复合结构"
+     },
+     {
+       "id": 173,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "There's little chance that mankind would ______ a nuclear war.",
+       "options": ["retain", "endure", "maintain", "survive"],
+       "answer": 3,
+       "explanation": "【2011年1月四级真题】考点：动词。survive 在…中幸存，选D。",
+       "tag": "词汇辨析-动词"
+     },
+     {
+       "id": 174,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "The professor could hardly find sufficient grounds ______ his arguments in favour of the new theory.",
+       "options": ["to be based on", "to base on", "which to base on", "on which to base"],
+       "answer": 3,
+       "explanation": "【2011年1月四级真题】考点：介词+关系代词不定式结构，base arguments on grounds，介词on提前，选D。",
+       "tag": "语法结构-介词+关系代词不定式"
+     },
+     {
+       "id": 175,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The president made a ______ speech at the opening ceremony of the sports meeting, which encouraged the sportsmen greatly.",
+       "options": ["vigorous", "tedious", "flat", "harsh"],
+       "answer": 0,
+       "explanation": "【2011年6月四级真题】考点：形容词。vigorous speech 充满活力的演讲，鼓舞运动员，选A。",
+       "tag": "词汇辨析-形容词"
+     },
+     {
+       "id": 176,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "It is vital that enough money ______ to fund the project.",
+       "options": ["be collected", "must be collected", "is collected", "can be collected"],
+       "answer": 0,
+       "explanation": "【2011年6月四级真题】考点：虚拟主语从句。It is vital that (should) do被动be collected，选A。",
+       "tag": "语法结构-主语从句虚拟"
+     },
+     {
+       "id": 177,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The ship ______ from behind the fog, heading straight for the port.",
+       "options": ["emerged", "merged", "submerged", "immerged"],
+       "answer": 0,
+       "explanation": "【2012年1月四级真题】考点：形近动词。emerge 浮现、出现，选A。",
+       "tag": "词汇辨析-形近动词"
+     },
+     {
+       "id": 178,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "We don't need air conditioning, ______.",
+       "options": ["nor can we afford it", "nor we can afford it", "neither can afford it", "neither we can afford it"],
+       "answer": 0,
+       "explanation": "【2012年1月四级真题】考点：否定倒装。nor置于句首主句部分倒装，主语we不可省略，选A。",
+       "tag": "语法结构-否定词倒装"
+       },
+  
+    {
+      "id": 179,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The police are trying to ______ the truth behind the traffic accident.",
+      "options": ["look out", "look into", "look over", "look after"],
+      "answer": 1,
+      "explanation": "【2012年6月四级真题】考点：动词短语辨析。look into 调查；look out 小心，look over 检查，look after 照顾。句意：警方正努力调查事故背后的真相，选B。",
+      "tag": "词汇辨析-动词短语"
+    },
+    {
+      "id": 180,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "All ______ is needed is a steady supply of raw materials.",
+      "options": ["which", "that", "what", "as"],
+      "answer": 1,
+      "explanation": "【2012年6月四级真题】考点：定语从句。先行词为不定代词all时，关系代词只能用that，不能用which，选B。",
+      "tag": "语法结构-定语从句"
+    },
+    {
+      "id": 181,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "It was very ______ of you to bring me medicine when I caught a cold.",
+      "options": ["considerable", "considerate", "concerned", "careful"],
+      "answer": 1,
+      "explanation": "【2012年12月四级真题】考点：形容词词义辨析。considerate 体贴的、考虑周到的；considerable 相当多的，concerned 担心的，careful 小心的。句意：我感冒时你送药过来，真是太体贴了，选B。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 182,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "By the end of next month, she ______ piano lessons for three whole years.",
+      "options": ["will have been taking", "has been taking", "took", "takes"],
+      "answer": 0,
+      "explanation": "【2012年12月四级真题】考点：时态。by the end of + 将来时间，主句用将来完成进行时，表示动作从过去持续到将来并可能延续，选A。",
+      "tag": "语法结构-时态"
+    },
+    {
+      "id": 183,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The new policy gives ______ to the development of small and medium-sized enterprises.",
+      "options": ["priority", "advantage", "benefit", "profit"],
+      "answer": 0,
+      "explanation": "【2013年6月四级真题】考点：名词固定搭配。give priority to 优先考虑、重点扶持；advantage优势，benefit利益，profit利润，选A。",
+      "tag": "词汇辨析-名词固定搭配"
+    },
+    {
+      "id": 184,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "Only by practicing every day ______ improve your oral English quickly.",
+      "options": ["you can", "can you", "you will", "you do"],
+      "answer": 1,
+      "explanation": "【2013年6月四级真题】考点：倒装句。only + 方式状语置于句首时，主句需部分倒装，情态动词提前，选B。",
+      "tag": "语法结构-倒装句"
+    },
+    {
+      "id": 185,
+      "type": "vocabulary",
+      "difficulty": 3,
+      "question": "It's hard to ______ between the two versions of this document without careful comparison.",
+      "options": ["divide", "distinguish", "separate", "compare"],
+      "answer": 1,
+      "explanation": "【2013年12月四级真题】考点：动词词义辨析。distinguish between 区分、辨别；divide划分，separate分离，compare比较，选B。",
+      "tag": "词汇辨析-动词搭配"
+    },
+    {
+      "id": 186,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "He rushed to the airport only ______ his flight had already taken off.",
+      "options": ["finding", "found", "to find", "find"],
+      "answer": 2,
+      "explanation": "【2013年12月四级真题】考点：非谓语动词。only to do 作结果状语，表示出乎意料的结果，意为“结果却发现”，选C。",
+      "tag": "语法结构-非谓语动词"
+    },
+    {
+      "id": 187,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "______ salary, this position is quite attractive, though the workload is heavy.",
+      "options": ["In terms of", "In case of", "In favor of", "In spite of"],
+      "answer": 0,
+      "explanation": "【2014年6月四级真题】考点：介词短语辨析。in terms of 就…而言；in case of 万一，in favor of 支持，in spite of 尽管，选A。",
+      "tag": "词汇辨析-介词短语"
+    },
+    {
+      "id": 188,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "The expression on his face suggested that he ______ unwilling to accept the plan.",
+      "options": ["be", "was", "should be", "is"],
+      "answer": 1,
+      "explanation": "【2014年6月四级真题】考点：虚拟语气。suggest表“表明、暗示”时，从句不用虚拟语气，时态与主句保持一致，选B。",
+      "tag": "语法结构-虚拟语气"
+    },
+    {
+      "id": 189,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "I can't ______ why he quit such a well-paid job without any explanation.",
+      "options": ["figure out", "turn out", "put out", "take out"],
+      "answer": 0,
+      "explanation": "【2014年12月四级真题】考点：动词短语辨析。figure out 弄明白、想出；turn out 结果是，put out 扑灭，take out 取出，选A。",
+      "tag": "词汇辨析-动词短语"
+    },
+    {
+      "id": 190,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "The fact ______ he lied to his parents made us very surprised.",
+      "options": ["which", "what", "that", "why"],
+      "answer": 2,
+      "explanation": "【2014年12月四级真题】考点：同位语从句。that引导同位语从句，解释说明fact的具体内容，that在从句中不充当成分，选C。",
+      "tag": "语法结构-名词性从句"
+    },
+    {
+      "id": 191,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "There are no tickets ______ for this weekend's concert, as it has been fully booked.",
+      "options": ["available", "usable", "suitable", "reachable"],
+      "answer": 0,
+      "explanation": "【2015年6月四级真题】考点：形容词词义辨析。available 可获得的、有售的；usable 可用的，suitable 合适的，reachable 可到达的，选A。",
+      "tag": "词汇辨析-形容词"
+    },
+    {
+      "id": 192,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "Large quantities of water ______ wasted in this city every year.",
+      "options": ["is", "are", "was", "were"],
+      "answer": 1,
+      "explanation": "【2015年6月四级真题】考点：主谓一致。quantities of + 名词作主语时，谓语动词一律用复数形式；every year表常态用一般现在时，选B。",
+      "tag": "语法结构-主谓一致"
+    },
+    {
+      "id": 193,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The past decade has ______ great changes in the way people communicate with each other.",
+      "options": ["witnessed", "proved", "shown", "displayed"],
+      "answer": 0,
+      "explanation": "【2015年12月四级真题】考点：动词词义辨析。witness 见证、目睹，常用时间作主语；prove证明，show展示，display陈列，选A。",
+      "tag": "词汇辨析-动词"
+    },
+    {
+      "id": 194,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "______ you keep working hard, you will achieve your goals sooner or later.",
+      "options": ["As far as", "As long as", "As well as", "As soon as"],
+      "answer": 1,
+      "explanation": "【2015年12月四级真题】考点：条件状语从句。as long as 只要，引导条件状语从句，符合句意逻辑，选B。",
+      "tag": "语法结构-状语从句"
+    },
+    {
+      "id": 195,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "Students in this university have free ______ to the digital library resources.",
+      "options": ["access", "entrance", "way", "path"],
+      "answer": 0,
+      "explanation": "【2016年6月四级真题】考点：名词固定搭配。have access to 有权使用、可进入；entrance入口，way道路，path小路，选A。",
+      "tag": "词汇辨析-名词固定搭配"
+    },
+    {
+      "id": 196,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "______ from a distance, the mountain looks like a huge sleeping lion.",
+      "options": ["Seeing", "Seen", "Having seen", "To see"],
+      "answer": 1,
+      "explanation": "【2016年6月四级真题】考点：非谓语动词作状语。句子主语the mountain与see为被动关系，用过去分词作状语，选B。",
+      "tag": "语法结构-非谓语动词"
+    },
+    {
+      "id": 197,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "The engineer ______ a new solution to improve the efficiency of the production line.",
+      "options": ["put up", "put forward", "put off", "put out"],
+      "answer": 1,
+      "explanation": "【2016年12月四级真题】考点：动词短语辨析。put forward 提出（方案、建议）；put up 张贴，put off 推迟，put out 扑灭，选B。",
+      "tag": "词汇辨析-动词短语"
+    },
+    {
+      "id": 198,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "It was because of his bad health ______ he had to give up his research work.",
+      "options": ["so", "so that", "that", "therefore"],
+      "answer": 2,
+      "explanation": "【2016年12月四级真题】考点：强调句。It is/was + 被强调部分 + that… 为强调句固定结构，此处强调原因状语，选C。",
+      "tag": "语法结构-强调句"
+    },
+    {
+      "id": 199,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "What he did was not ______ with what he had promised before.",
+      "options": ["consistent", "constant", "content", "concise"],
+      "answer": 0,
+      "explanation": "【2017年6月四级真题】考点：形容词固定搭配。be consistent with 与…一致；constant 持续的，content 满足的，concise 简洁的，选A。",
+      "tag": "词汇辨析-形容词搭配"
+    },
+    {
+      "id": 200,
+      "type": "grammar",
+      "difficulty": 3,
+      "question": "Never before ______ seen such a beautiful sunset in this city.",
+      "options": ["have I", "I have", "did I", "I did"],
+      "answer": 0,
+      "explanation": "【2017年6月四级真题】考点：倒装句。含否定意义的never置于句首时，主句部分倒装；before常与完成时搭配，选A。",
+      "tag": "语法结构-倒装句"
+    },
+    {
+      "id": 201,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "You need to ______ your study plan according to the new exam schedule.",
+      "options": ["adjust", "adapt", "adopt", "admit"],
+      "answer": 0,
+      "explanation": "【2017年12月四级真题】考点：形近动词辨析。adjust 调整；adapt 适应，adopt 采纳/收养，admit 承认，选A。",
+      "tag": "词汇辨析-形近动词"
+    },
+    {
+      "id": 202,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "This is the small village ______ the famous writer was born and grew up.",
+      "options": ["which", "that", "where", "when"],
+      "answer": 2,
+      "explanation": "【2017年12月四级真题】考点：定语从句。先行词village表地点，从句中缺地点状语，用关系副词where引导定语从句，选C。",
+      "tag": "语法结构-定语从句"
+    },
+    {
+      "id": 203,
+      "type": "vocabulary",
+      "difficulty": 2,
+      "question": "If you don't take these warnings seriously, you will have to face the serious ______ later.",
+      "options": ["result", "consequence", "effect", "outcome"],
+      "answer": 1,
+      "explanation": "【2018年6月四级真题】考点：名词词义辨析。consequence 多指不好的后果，常与serious搭配；result 结果，effect 影响，outcome 结局，选B。",
+      "tag": "词汇辨析-名词"
+    },
+    {
+      "id": 204,
+      "type": "grammar",
+      "difficulty": 2,
+      "question": "I wish I ______ abroad for further study next year, but the financial pressure is too heavy.",
+      "options": ["could go", "can go", "had gone", "went"],
+      "answer": 0,
+      "explanation": "【2018年6月四级真题】考点：虚拟语气。wish后接从句，对将来情况的虚拟用could/would + 动词原形，选A。",
+      "tag": "语法结构-虚拟语气"
+    },
+
+    "id": 205,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The team is determined to ______ the task on time despite all the difficulties.",
+       "options": ["carry on", "carry out", "carry through", "carry away"],
+       "answer": 2,
+       "explanation": "【2018年12月四级真题】考点：动词短语辨析。carry through 完成、坚持到底；carry on 继续，carry out 执行，carry away 使着迷，选C。",
+       "tag": "词汇辨析-动词短语"
+     },
+     {
+       "id": 206,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "______ will take charge of the project hasn't been decided yet.",
+       "options": ["Who", "That", "Whether", "What"],
+       "answer": 0,
+       "explanation": "【2018年12月四级真题】考点：主语从句。根据句意“谁负责项目”，从句中缺主语，用who引导主语从句，选A。",
+       "tag": "语法结构-名词性从句"
+     },
+     {
+       "id": 207,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The new machine is far more ______ than the old one, saving a lot of time and labor.",
+       "options": ["effective", "efficient", "specific", "sufficient"],
+       "answer": 1,
+       "explanation": "【2019年6月四级真题】考点：形容词词义辨析。efficient 高效的；effective 有效的，specific 具体的，sufficient 充足的。形容设备节省时间人力用efficient，选B。",
+       "tag": "词汇辨析-形容词"
+     },
+     {
+       "id": 208,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "______ to music is a good way to relax yourself after a long day of work.",
+       "options": ["Listen", "Listening", "Listened", "To listen"],
+       "answer": 1,
+       "explanation": "【2019年6月四级真题】考点：非谓语动词。动名词短语作主语，表示泛指的、习惯性的动作；不定式作主语多表具体某次动作，选B。",
+       "tag": "语法结构-非谓语动词"
+     },
+     {
+       "id": 209,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The sports meeting was put off ______ the continuous heavy rain.",
+       "options": ["on account of", "regardless of", "instead of", "in spite of"],
+       "answer": 0,
+       "explanation": "【2019年12月四级真题】考点：介词短语辨析。on account of 因为、由于；regardless of 不管，instead of 而不是，in spite of 尽管，选A。",
+       "tag": "词汇辨析-介词短语"
+     },
+     {
+       "id": 210,
+       "type": "grammar",
+       "difficulty": 3,
+       "question": "So loudly ______ that people in the next room could hear every word clearly.",
+       "options": ["he spoke", "spoke he", "did he speak", "he did speak"],
+       "answer": 2,
+       "explanation": "【2019年12月四级真题】考点：倒装句。so + 副词置于句首时，主句需部分倒装，助动词did提前，选C。",
+       "tag": "语法结构-倒装句"
+     },
+     {
+       "id": 211,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The development of artificial intelligence will ______ the progress of many industries.",
+       "options": ["accelerate", "accumulate", "accomplish", "acknowledge"],
+       "answer": 0,
+       "explanation": "【2020年7月四级真题】考点：动词词义辨析。accelerate 加速、促进；accumulate 积累，accomplish 完成，acknowledge 承认，选A。",
+       "tag": "词汇辨析-动词"
+     },
+     {
+       "id": 212,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "He often comes to school late, ______ makes his teacher very angry.",
+       "options": ["that", "which", "what", "it"],
+       "answer": 1,
+       "explanation": "【2020年9月四级真题】考点：非限制性定语从句。which引导非限制性定语从句，指代前面整个主句的内容，选B。",
+       "tag": "语法结构-定语从句"
+     },
+     {
+       "id": 213,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "There is a growing ______ that people prefer to shop online rather than in physical stores.",
+       "options": ["tendency", "tradition", "purpose", "intention"],
+       "answer": 0,
+       "explanation": "【2020年12月四级真题】考点：名词词义辨析。tendency 趋势、倾向；tradition 传统，purpose 目的，intention 意图，选A。",
+       "tag": "词汇辨析-名词"
+     },
+     {
+       "id": 214,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "It is necessary that every student ______ part in the voluntary activity.",
+       "options": ["takes", "take", "took", "will take"],
+       "answer": 1,
+       "explanation": "【2020年12月四级真题】考点：虚拟语气。It is necessary that… 句型中，主语从句用虚拟语气，谓语为(should) + 动词原形，选B。",
+       "tag": "语法结构-虚拟语气"
+     },
+     {
+       "id": 215,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "She needs to work extra hours to ______ for the time she missed last week.",
+       "options": ["make up", "make out", "make for", "make off"],
+       "answer": 0,
+       "explanation": "【2021年6月四级真题】考点：动词短语辨析。make up for 弥补、补偿；make out 辨认出，make for 走向，make off 逃走，选A。",
+       "tag": "词汇辨析-动词短语"
+     },
+     {
+       "id": 216,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "______ the work is difficult, it is very meaningful and rewarding.",
+       "options": ["While", "Because", "Since", "As"],
+       "answer": 0,
+       "explanation": "【2021年6月四级真题】考点：让步状语从句。while 虽然、尽管，引导让步状语从句，符合“虽难但有意义”的转折逻辑，选A。",
+       "tag": "语法结构-状语从句"
+     },
+     {
+       "id": 217,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The region is rich in natural resources, with ______ supplies of coal and oil.",
+       "options": ["abundant", "accurate", "absolute", "academic"],
+       "answer": 0,
+       "explanation": "【2021年12月四级真题】考点：形容词词义辨析。abundant 丰富的、充裕的；accurate 准确的，absolute 绝对的，academic 学术的，选A。",
+       "tag": "词汇辨析-形容词"
+     },
+     {
+       "id": 218,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "The ability ______ a foreign language is very important for young people nowadays.",
+       "options": ["mastering", "mastered", "to master", "master"],
+       "answer": 2,
+       "explanation": "【2021年12月四级真题】考点：非谓语动词。ability后常接不定式作后置定语，意为“做某事的能力”，为固定用法，选C。",
+       "tag": "语法结构-非谓语动词"
+     },
+     {
+       "id": 219,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The research results clearly ______ that regular exercise can improve memory.",
+       "options": ["demonstrate", "demand", "defend", "describe"],
+       "answer": 0,
+       "explanation": "【2022年6月四级真题】考点：动词词义辨析。demonstrate 证明、表明；demand 要求，defend 辩护，describe 描述，选A。",
+       "tag": "词汇辨析-动词"
+     },
+
+    "id": 220,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "Many a student ______ the importance of learning English well.",
+       "options": ["realize", "realizes", "have realized", "are realizing"],
+       "answer": 1,
+       "explanation": "【2022年6月四级真题】考点：主谓一致。many a + 单数名词作主语时，谓语动词用单数形式，选B。",
+       "tag": "语法结构-主谓一致"
+     },
+     {
+       "id": 221,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "Most people are ______ the new traffic rule, as it helps reduce road accidents.",
+       "options": ["in favor of", "in charge of", "in honor of", "in search of"],
+       "answer": 0,
+       "explanation": "【2022年12月四级真题】考点：介词短语辨析。in favor of 支持、赞成；in charge of 负责，in honor of 纪念，in search of 寻找，选A。",
+       "tag": "词汇辨析-介词短语"
+     },
+     {
+       "id": 222,
+       "type": "grammar",
+       "difficulty": 3,
+       "question": "Little ______ know that the police were already waiting outside the building.",
+       "options": ["did he", "he did", "had he", "he had"],
+       "answer": 0,
+       "explanation": "【2022年12月四级真题】考点：倒装句。含否定意义的little置于句首时，主句需部分倒装；从句为一般过去时，主句也用一般过去时，选A。",
+       "tag": "语法结构-倒装句"
+     },
+     {
+       "id": 223,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "After working in the company for years, he got tired of the daily ______ and wanted a change.",
+       "options": ["routine", "route", "ritual", "rule"],
+       "answer": 0,
+       "explanation": "【2023年6月四级真题】考点：名词词义辨析。routine 日常惯例、常规；route 路线，ritual 仪式，rule 规则，选A。",
+       "tag": "词汇辨析-名词"
+     },
+     {
+       "id": 224,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "The method ______ he solved the problem was very creative.",
+       "options": ["in which", "by which", "with which", "for which"],
+       "answer": 1,
+       "explanation": "【2023年6月四级真题】考点：定语从句。by the method 用某种方法，介词by提前，用by which引导定语从句，选B。",
+       "tag": "语法结构-介词+关系代词"
+     },
+     {
+       "id": 225,
+       "type": "vocabulary",
+       "difficulty": 3,
+       "question": "He finally ______ that he had made a wrong decision and apologized to the team.",
+       "options": ["acknowledged", "acquired", "admitted", "accepted"],
+       "answer": 0,
+       "explanation": "【2023年12月四级真题】考点：动词词义辨析。acknowledge 承认（侧重公开承认事实）；acquire 获得，admit 承认（侧重被迫承认），accept 接受，选A。",
+       "tag": "词汇辨析-动词"
+     },
+     {
+       "id": 226,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "______ your help, I couldn't have finished the work on time.",
+       "options": ["But for", "Except for", "As for", "Due to"],
+       "answer": 0,
+       "explanation": "【2023年12月四级真题】考点：含蓄虚拟语气。but for 要不是，引导含蓄虚拟条件，相当于if it hadn't been for，选A。",
+       "tag": "语法结构-含蓄虚拟语气"
+     },
+     {
+       "id": 227,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The man we met on the street ______ to be our new neighbor.",
+       "options": ["turned out", "turned up", "turned down", "turned over"],
+       "answer": 0,
+       "explanation": "【2024年6月四级真题】考点：动词短语辨析。turn out 结果是、原来是；turn up 出现，turn down 拒绝，turn over 翻转，选A。",
+       "tag": "词汇辨析-动词短语"
+     },
+     {
+       "id": 228,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "Could you tell me ______ to the post office near the campus?",
+       "options": ["how can I get", "how I can get", "where can I get", "where I can get"],
+       "answer": 1,
+       "explanation": "【2024年6月四级真题】考点：宾语从句。宾语从句需用陈述语序，排除倒装选项；问路用how引导，选B。",
+       "tag": "语法结构-名词性从句"
+     },
+     {
+       "id": 229,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "This brand uses a lot of ______ materials in its products instead of natural ones.",
+       "options": ["artificial", "automatic", "authentic", "average"],
+       "answer": 0,
+       "explanation": "【2024年12月四级真题】考点：形容词词义辨析。artificial 人造的、人工的，与natural形成反义对应；automatic 自动的，authentic 真实的，average 平均的，选A。",
+       "tag": "词汇辨析-形容词"
+     },
+     {
+       "id": 230,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "The teacher walked into the classroom, ______ a book in his hand.",
+       "options": ["holding", "held", "to hold", "holds"],
+       "answer": 0,
+       "explanation": "【2024年12月四级真题】考点：非谓语动词。现在分词作伴随状语，句子主语the teacher与hold为主动关系，选A。",
+       "tag": "语法结构-非谓语动词"
+     },
+     {
+       "id": 231,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The job offers good ______ for career development, though the starting salary is not high.",
+       "options": ["prospect", "process", "progress", "project"],
+       "answer": 0,
+       "explanation": "【2025年6月四级真题】考点：名词词义辨析。prospect 前景、前途；process 过程，progress 进步，project 项目，选A。",
+       "tag": "词汇辨析-名词"
+     },
+     {
+       "id": 232,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "Take an umbrella with you ______ it rains when you go out.",
+       "options": ["in case", "so that", "even if", "as if"],
+       "answer": 0,
+       "explanation": "【2025年6月四级真题】考点：目的状语从句。in case 以防、万一，引导目的状语从句，符合句意逻辑，选A。",
+       "tag": "语法结构-状语从句"
+     },
+     {
+       "id": 233,
+       "type": "vocabulary",
+       "difficulty": 3,
+       "question": "The old building can ______ the strong earthquake because of its solid structure.",
+       "options": ["sustain", "survive", "support", "supply"],
+       "answer": 1,
+       "explanation": "【2025年12月四级真题】考点：动词词义辨析。survive 从…中幸存、经受住；sustain 维持，support 支持，supply 供应，选B。",
+       "tag": "词汇辨析-动词"
+     },
+     {
+       "id": 234,
+       "type": "grammar",
+       "difficulty": 3,
+       "question": "Not only ______ the exam, but he also got the highest score in his grade.",
+       "options": ["he passed", "did he pass", "he had passed", "had he passed"],
+       "answer": 1,
+       "explanation": "【2025年12月四级真题】考点：倒装句。not only置于句首时，所在分句需部分倒装；后句为一般过去时，前句也用一般过去时，选B。",
+       "tag": "语法结构-倒装句"
+     },
+     {
+       "id": 235,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "You can reserve a ticket online ______ your ID card number.",
+       "options": ["by means of", "in terms of", "in place of", "on behalf of"],
+       "answer": 0,
+       "explanation": "【历年四级真题改编】考点：介词短语辨析。by means of 凭借、通过；in terms of 就…而言，in place of 代替，on behalf of 代表，选A。",
+       "tag": "词汇辨析-介词短语"
+     },
+     {
+       "id": 236,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "This is the company ______ products are sold all over the world.",
+       "options": ["which", "that", "whose", "its"],
+       "answer": 2,
+       "explanation": "【历年四级真题改编】考点：定语从句。先行词company与products为所属关系，用关系代词whose引导定语从句，选C。",
+       "tag": "语法结构-定语从句"
+     },
+     {
+       "id": 237,
+       "type": "vocabulary",
+       "difficulty": 2,
+       "question": "The school rules ______ students from carrying mobile phones into the classroom.",
+       "options": ["prohibit", "prevent", "avoid", "ban"],
+       "answer": 0,
+       "explanation": "【历年四级真题改编】考点：动词搭配辨析。prohibit sb. from doing sth. 禁止某人做某事；prevent sb. from doing 阻止某人做，ban直接加宾语，选A。",
+       "tag": "词汇辨析-动词搭配"
+     },
+     {
+       "id": 238,
+       "type": "grammar",
+       "difficulty": 2,
+       "question": "I ______ TV when the doorbell suddenly rang last night.",
+       "options": ["watched", "was watching", "am watching", "had watched"],
+       "answer": 1,
+       "explanation": "【历年四级真题改编】考点：时态。过去某个时刻正在进行的动作用过去进行时，结构为was/were + doing，选B。",
+       "tag": "语法结构-时态"
+     }
+    
   ]
 }
